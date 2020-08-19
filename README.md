@@ -1,7 +1,7 @@
 # Secondary Breaking Dataset
 This dataset consists of over 4700 images collected from the field test site at the mobile lab of Tampere University.
 All images were acquired from a ZED stereo camera with resolution of 1280x720, which took more than two weeks of hard work.
-Annotation took another 2 weeks.
+Data annotation took another 2 weeks.
 
 If you use the data for your publication or other commerical purpose, please kindly cite the following papers: 
 
