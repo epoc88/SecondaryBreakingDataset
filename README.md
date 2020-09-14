@@ -16,6 +16,6 @@ If you use the data for your publication or other commerical purpose, please kin
 &emsp;  organization={IEEE}  
 }  
 
-#### "Autonomous Robotic Rock Breaking Using a Real-time 3D Perception System"
+#### "Autonomous Robotic Rock Breaking Using a Real-time 3D Visual Perception System"
 
 You can find the citation info from http://scholar.google.com/,
